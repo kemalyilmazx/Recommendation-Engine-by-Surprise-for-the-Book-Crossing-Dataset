@@ -1,0 +1,2 @@
+# Recommendation-Engine-by-Surprise-for-the-Book-Crossing-Dataset
+This data belongs to Book-Crossing community. It was collected in 4 weeks (Aug-Sep 2004) and has 3 different tables: Users, books and rating. Since the date is 2004, when internet was not commmon enough, and period was only 4 weeks, the data set is relatively small compared to other public data set. &lt;br> For more detail: http://www2.informatik.uni-freiburg.de/~cziegler/BX/
